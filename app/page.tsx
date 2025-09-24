@@ -159,6 +159,24 @@ export default function Home () {
                 <li>Deep condition weekly for optimal moisture</li>
               </ul>
             </div>
+
+            <div className="card p-6 md:p-8">
+              <h3 className="text-2xl font-semibold mb-4">Bouncy Hair Care</h3>
+              <ul className="list-disc pl-6 space-y-2 text-neutral-300">
+                <li>Comb wig only with a wide-tooth comb</li>
+                <li>Roll up with flexi rods or use bobby pins to hold back bounce before storage</li>
+                <li>Don’t drench hair or overly wet your hair</li>
+                <li>Don’t leave wig hanging on a mannequin</li>
+              </ul>
+            </div>
+
+            <div className="card p-6 md:p-8">
+              <h3 className="text-2xl font-semibold mb-4">General Care Maintenance</h3>
+              <ul className="list-disc pl-6 space-y-2 text-neutral-300">
+                <li>Store wig properly</li>
+                <li>Ensure to give your wigs to a professional to style, revamp, or install</li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
@@ -205,19 +223,19 @@ export default function Home () {
               <div className="space-y-4">
                 <div className="flex justify-between items-center">
                   <span className="text-neutral-300">Wig Revamping</span>
-                  <span className="font-medium">From ₦15,000</span>
+                  <span className="font-medium">Request a quote</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-neutral-300">Professional Styling</span>
-                  <span className="font-medium">From ₦8,000</span>
+                  <span className="font-medium">Request a quote</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-neutral-300">Hair Coloring</span>
-                  <span className="font-medium">From ₦12,000</span>
+                  <span className="font-medium">Request a quote</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-neutral-300">Premium Wigs</span>
-                  <span className="font-medium">From ₦60,000</span>
+                  <span className="font-medium">Request a quote</span>
                 </div>
                 <div className="mt-6 p-4 bg-neutral-800 rounded-lg">
                   <p className="text-sm text-neutral-400">
